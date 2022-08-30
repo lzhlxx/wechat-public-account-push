@@ -8,7 +8,7 @@ export const config = {
     // 公众号APP_SECRET
     APP_SECRET: "34fa307f555f65e76abc310b9d60b1b4",
     // 模板消息id
-    TEMPLATE_ID: "UIu9HctUe0-z50YF7pDIupKqFT2Efn3FL8SXoMOiXwE",
+    TEMPLATE_ID: "g7v9YPj1vJrzuMdejHDhiVJA2BlMpyCMclVAiNeJOMc",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: ["oHRRR6TplbGuv-9NB8jNO9xyo2aM"],
      
@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "陕西",
+    PROVINCE: "浙江",
     // 所在城市
-    CITY: "西安",
+    CITY: "杭州",
 
     /** 重要节日相关 */
 
@@ -43,7 +43,7 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2022-08-30",
+    LOVE_DATE: "2018-11-28",
     // 结婚纪念日
 //     MARRY_DATE: "2020-01-04",
 
